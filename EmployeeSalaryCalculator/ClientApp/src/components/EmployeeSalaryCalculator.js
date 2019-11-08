@@ -1,4 +1,5 @@
 ﻿import React, { Component } from 'react';
+import { AppConfiguration } from "read-appsettings-json";
 
 export class EmployeeSalaryCalculator extends Component {
     static displayName = EmployeeSalaryCalculator.name;
@@ -9,7 +10,7 @@ export class EmployeeSalaryCalculator extends Component {
         this.state = { employees: [], loading: true, id: '', notFound: true, enableErrorMessage: false   };
         this.search = this.search.bind(this);
         this.handleChange = this.handleChange.bind(this);
-        this.url = "https://localhost:44354/api/Employee/";
+        this.url = AppConfiguration.Setting().Apiendpoint;
     }
 
     componentDidMount() {

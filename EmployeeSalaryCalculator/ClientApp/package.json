@@ -14,6 +14,7 @@
     "react-router-dom": "^4.2.2",
     "react-scripts": "^3.0.1",
     "reactstrap": "^6.3.0",
+    "read-appsettings-json": "^1.0.98",
     "rimraf": "^2.6.2"
   },
   "devDependencies": {
