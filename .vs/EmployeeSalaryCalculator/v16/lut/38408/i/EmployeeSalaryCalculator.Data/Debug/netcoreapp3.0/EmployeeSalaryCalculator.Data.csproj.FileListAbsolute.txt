@@ -1,0 +1,7 @@
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\b\EmployeeSalaryCalculator.Data\Debug\netcoreapp3.0\EmployeeSalaryCalculator.Data.deps.json
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\b\EmployeeSalaryCalculator.Data\Debug\netcoreapp3.0\EmployeeSalaryCalculator.Data.dll
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\i\EmployeeSalaryCalculator.Data\Debug\netcoreapp3.0\EmployeeSalaryCalculator.Data.csprojAssemblyReference.cache
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\i\EmployeeSalaryCalculator.Data\Debug\netcoreapp3.0\EmployeeSalaryCalculator.Data.AssemblyInfoInputs.cache
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\i\EmployeeSalaryCalculator.Data\Debug\netcoreapp3.0\EmployeeSalaryCalculator.Data.AssemblyInfo.cs
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\i\EmployeeSalaryCalculator.Data\Debug\netcoreapp3.0\EmployeeSalaryCalculator.Data.csproj.CopyComplete
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\i\EmployeeSalaryCalculator.Data\Debug\netcoreapp3.0\EmployeeSalaryCalculator.Data.dll

@@ -1,0 +1,16 @@
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\b\EmployeeSalaryCalculator.Api\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\b\EmployeeSalaryCalculator.Api\Debug\netcoreapp3.0\appsettings.json
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\b\EmployeeSalaryCalculator.Api\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\b\EmployeeSalaryCalculator.Api\Debug\netcoreapp3.0\EmployeeSalaryCalculator.Api.exe
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\b\EmployeeSalaryCalculator.Api\Debug\netcoreapp3.0\EmployeeSalaryCalculator.Api.deps.json
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\b\EmployeeSalaryCalculator.Api\Debug\netcoreapp3.0\EmployeeSalaryCalculator.Api.runtimeconfig.json
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\b\EmployeeSalaryCalculator.Api\Debug\netcoreapp3.0\EmployeeSalaryCalculator.Api.runtimeconfig.dev.json
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\b\EmployeeSalaryCalculator.Api\Debug\netcoreapp3.0\EmployeeSalaryCalculator.Api.dll
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\i\EmployeeSalaryCalculator.Api\Debug\netcoreapp3.0\EmployeeSalaryCalculator.Api.csprojAssemblyReference.cache
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\i\EmployeeSalaryCalculator.Api\Debug\netcoreapp3.0\staticwebassets\EmployeeSalaryCalculator.Api.StaticWebAssets.Manifest.cache
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\i\EmployeeSalaryCalculator.Api\Debug\netcoreapp3.0\staticwebassets\EmployeeSalaryCalculator.Api.StaticWebAssets.xml
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\i\EmployeeSalaryCalculator.Api\Debug\netcoreapp3.0\EmployeeSalaryCalculator.Api.AssemblyInfoInputs.cache
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\i\EmployeeSalaryCalculator.Api\Debug\netcoreapp3.0\EmployeeSalaryCalculator.Api.AssemblyInfo.cs
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\i\EmployeeSalaryCalculator.Api\Debug\netcoreapp3.0\EmployeeSalaryCalculator.Api.RazorTargetAssemblyInfo.cache
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\i\EmployeeSalaryCalculator.Api\Debug\netcoreapp3.0\EmployeeSalaryCalculator.Api.csproj.CopyComplete
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\i\EmployeeSalaryCalculator.Api\Debug\netcoreapp3.0\EmployeeSalaryCalculator.Api.dll

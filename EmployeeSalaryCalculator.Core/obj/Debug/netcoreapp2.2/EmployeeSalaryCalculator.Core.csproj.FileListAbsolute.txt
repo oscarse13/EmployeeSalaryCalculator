@@ -1,0 +1,8 @@
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\EmployeeSalaryCalculator.Core\bin\Debug\netcoreapp2.2\EmployeeSalaryCalculator.Core.deps.json
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\EmployeeSalaryCalculator.Core\bin\Debug\netcoreapp2.2\EmployeeSalaryCalculator.Core.dll
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\EmployeeSalaryCalculator.Core\bin\Debug\netcoreapp2.2\EmployeeSalaryCalculator.Core.pdb
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\EmployeeSalaryCalculator.Core\obj\Debug\netcoreapp2.2\EmployeeSalaryCalculator.Core.csprojAssemblyReference.cache
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\EmployeeSalaryCalculator.Core\obj\Debug\netcoreapp2.2\EmployeeSalaryCalculator.Core.AssemblyInfoInputs.cache
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\EmployeeSalaryCalculator.Core\obj\Debug\netcoreapp2.2\EmployeeSalaryCalculator.Core.AssemblyInfo.cs
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\EmployeeSalaryCalculator.Core\obj\Debug\netcoreapp2.2\EmployeeSalaryCalculator.Core.dll
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\EmployeeSalaryCalculator.Core\obj\Debug\netcoreapp2.2\EmployeeSalaryCalculator.Core.pdb

@@ -1,0 +1,12 @@
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\b\EmployeeSalaryCalculator.Test\Debug\netcoreapp3.0\NUnit3.TestAdapter.dll
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\b\EmployeeSalaryCalculator.Test\Debug\netcoreapp3.0\NUnit3.TestAdapter.pdb
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\b\EmployeeSalaryCalculator.Test\Debug\netcoreapp3.0\nunit.engine.netstandard.dll
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\b\EmployeeSalaryCalculator.Test\Debug\netcoreapp3.0\EmployeeSalaryCalculator.Test.deps.json
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\b\EmployeeSalaryCalculator.Test\Debug\netcoreapp3.0\EmployeeSalaryCalculator.Test.runtimeconfig.json
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\b\EmployeeSalaryCalculator.Test\Debug\netcoreapp3.0\EmployeeSalaryCalculator.Test.runtimeconfig.dev.json
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\b\EmployeeSalaryCalculator.Test\Debug\netcoreapp3.0\EmployeeSalaryCalculator.Test.dll
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\i\EmployeeSalaryCalculator.Test\Debug\netcoreapp3.0\EmployeeSalaryCalculator.Test.csprojAssemblyReference.cache
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\i\EmployeeSalaryCalculator.Test\Debug\netcoreapp3.0\EmployeeSalaryCalculator.Test.AssemblyInfoInputs.cache
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\i\EmployeeSalaryCalculator.Test\Debug\netcoreapp3.0\EmployeeSalaryCalculator.Test.AssemblyInfo.cs
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\i\EmployeeSalaryCalculator.Test\Debug\netcoreapp3.0\EmployeeSalaryCalculator.Test.csproj.CopyComplete
+C:\Users\JQuinoO\source\repos\EmployeeSalaryCalculator\.vs\EmployeeSalaryCalculator\v16\lut\0\i\EmployeeSalaryCalculator.Test\Debug\netcoreapp3.0\EmployeeSalaryCalculator.Test.dll
