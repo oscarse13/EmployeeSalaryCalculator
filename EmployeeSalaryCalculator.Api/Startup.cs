@@ -27,7 +27,7 @@ namespace EmployeeSalaryCalculator.Api
             services.AddScoped<IEmployeeService, EmployeeService>();
             services.AddScoped<IEmployeeRepository, EmployeeDBRepository>();
             services.AddScoped<IEmployeeFactory, EmployeeFactory>();
-            services.AddDbContext<EmployeeContext>(options => options.UseSqlServer(@"Server=localhost;Database=EmployeeDB;Integrated Security=True"));
+            services.AddDbContext<EmployeeContext>(options => options.UseSqlServer($@"Server={Configuration["DBServer"]};Database=EmployeeDB;Integrated Security=True"));
 
             services.AddCors(o => o.AddPolicy("EmployeesCorsPolicy", builder =>
             {
