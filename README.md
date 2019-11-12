@@ -9,7 +9,7 @@ la siguiente linea: AppConfiguration.json = require('../../../appsettings.json')
 Esta modificación se hace para poder apuntar correctamente a la ruta que contiene el archivo requerido.
 
 
-Como no se entrego una fuente de datos (API nombrado en el ejercicio), se creo una DB llamada EmployeeDB en el localhost (utilizar el script EmployeeSalaryCalculator.Data/DB/DB Script.sql para crear la DB localmente con un para de datos semilla para pruebas)
+Como no se entrego una fuente de datos (API nombrado en el ejercicio), se creo una DB llamada EmployeeDB en el localhost (utilizar el script EmployeeSalaryCalculator.Data/DB/DB Script.sql para crear la DB localmente con un par de datos semilla para pruebas)
 Para actualizar el nombre del servidor donde se despliegue la DB por favor modificar el valor de la variable DBServer en el archivo appsettings.json del proyecto EmployeeSalaryCalculator.Api
 
 Cualquier duda o problema con la ejecución del proyecto por favor comunicarse a oscarse@gmail.com
